@@ -1,0 +1,3 @@
+"Effect","Mauchly_W","Mauchly_p","sphericity_violated","GG_eps","HF_eps","p_GG","p_HF"
+"pair",0.2072,0,TRUE,0.5578,0.5673,0,0
+"loudness_condition:pair",0.406,2e-04,TRUE,0.6274,0.6495,0.4763,0.4815

@@ -1,0 +1,7 @@
+"Effect","Mauchly_W","Mauchly_p","sphericity_violated","GG_eps","HF_eps","p_GG","p_HF"
+"standard_distance",0.9517,0.625,FALSE,0.954,1.052,0.3127,0.3139
+"target",0.9989,0.9894,FALSE,0.9989,1.1097,0.3402,0.3403
+"loudness_condition:standard_distance",0.802,0.123,FALSE,0.8347,0.9018,0.1964,0.1941
+"loudness_condition:target",0.99,0.9091,FALSE,0.9901,1.0984,0.1195,0.1189
+"standard_distance:target",0.231,0.0015,TRUE,0.5892,0.6729,0.0808,0.072
+"loudness_condition:standard_distance:target",0.4712,0.1292,FALSE,0.7249,0.861,0.368,0.3735

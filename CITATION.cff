@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the repository (and the article once published)."
+title: "Auditory spatial attention in the depth dimension: data and analysis code"
+type: dataset
+authors:
+  - family-names: Naka
+    given-names: Kiichi
+    orcid: "https://orcid.org/0000-0001-6476-0058"
+    affiliation: "University of Nagasaki"
+  - family-names: Yamasaki
+    given-names: Daiki
+    affiliation: "Kyoto University"
+  - family-names: Morita
+    given-names: Marie M.
+    affiliation: "Ritsumeikan University"
+  - family-names: Sun
+    given-names: Yue
+    affiliation: "Ritsumeikan University"
+  - family-names: Sakamoto
+    given-names: Shinichi
+    affiliation: "The University of Tokyo"
+  - family-names: Nagata
+    given-names: Noriko
+    affiliation: "Kwansei Gakuin University"
+  - family-names: Kitagawa
+    given-names: Norimichi
+    affiliation: "Ritsumeikan University; Yoshika Institute of Psychology"
+version: 1.0.0
+date-released: "2026-10-XX"
+repository-code: "https://github.com/<ACCOUNT>/auditory-spatial-attention-depth"
+doi: "10.5281/zenodo.XXXXXXX"
+license: MIT
+keywords:
+  - auditory spatial attention
+  - depth perception
+  - sustained attention
+  - spatial cueing
+  - peripersonal space

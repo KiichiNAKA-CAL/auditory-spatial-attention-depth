@@ -1,0 +1,7 @@
+"loudness_condition","pair","mean_correct_ratio","sd_correct_ratio"
+"Unmatched","near_mid",96.7460317460317,3.9255640244496
+"Unmatched","near_far",97.6190476190476,2.81718084909506
+"Unmatched","mid_far",73.1746031746032,16.4815112062035
+"Matched","near_mid",86.5873015873016,15.718674230886
+"Matched","near_far",90.1587301587302,14.6809093903988
+"Matched","mid_far",66.5079365079365,15.2106026791325

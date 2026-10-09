@@ -1,0 +1,8 @@
+"Effect","df","MSE","F","ges","pes","p.value"
+"loudness_condition","1, 20","0.00","1.98",".003",".090",".175"
+"standard_distance","2, 40","0.00","1.19",".007",".056",".314"
+"target","2, 40","0.00","1.11",".005",".052",".340"
+"loudness_condition:standard_distance","2, 40","0.00","1.73",".009",".080",".190"
+"loudness_condition:target","2, 40","0.00","2.25",".009",".101",".119"
+"standard_distance:target","4, 80","0.00","2.54 *",".023",".113",".046"
+"loudness_condition:standard_distance:target","4, 80","0.00","1.07",".007",".051",".378"
