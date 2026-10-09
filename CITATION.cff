@@ -25,10 +25,10 @@ authors:
   - family-names: Kitagawa
     given-names: Norimichi
     affiliation: "Ritsumeikan University; Yoshika Institute of Psychology"
-version: 1.0.0
-date-released: "2026-10-XX"
-repository-code: "https://github.com/<ACCOUNT>/auditory-spatial-attention-depth"
-doi: "10.5281/zenodo.XXXXXXX"
+version: 1.0.2
+date-released: "2026-10-09"
+repository-code: "https://github.com/KiichiNAKA-CAL/auditory-spatial-attention-depth"
+doi: "10.5281/zenodo.23265042"
 license: MIT
 keywords:
   - auditory spatial attention
