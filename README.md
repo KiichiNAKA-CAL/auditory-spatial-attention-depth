@@ -130,10 +130,8 @@ The participant-level cell values that enter the ANOVAs are in `tables/median_rt
 
 ## Licenses
 
-- Code (`*.R`, `experiment_scripts/*.m`): MIT License (`LICENSE`).
 - Data (`data/`, `output/`): Creative Commons Attribution 4.0 International (`DATA_LICENSE.md`).
 
-## Citation and contact
+## Contact
 
-Please cite the article above and this repository (see `CITATION.cff`; the Zenodo DOI will be added once the record is created).
-Questions about the data: Kiichi Naka, University of Nagasaki (kiichinaka@sun.ac.jp).
+Kiichi Naka, University of Nagasaki (kiichinaka@sun.ac.jp).
