@@ -6,7 +6,7 @@ Trial-level data, analysis scripts (R) and experiment scripts (MATLAB) for
 > *Auditory spatial attention in the depth dimension: Gradients around the attended distance and a bias toward the listener.*
 > Manuscript submitted for publication.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) <!-- replace after the Zenodo DOI is minted -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23265042.svg)](https://doi.org/10.5281/zenodo.23265042)
 
 ## Contents
 
