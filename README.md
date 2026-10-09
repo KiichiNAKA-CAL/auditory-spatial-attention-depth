@@ -128,10 +128,6 @@ The participant-level cell values that enter the ANOVAs are in `tables/median_rt
 
 `experiment_scripts/exp1/sustainedAttentionTask.m`, `exp1/localizationTask.m`, `exp2/spatialCueingTask.m` and `exp2/localizationTask.m` are MATLAB (R2023a) / Psychtoolbox-3 scripts that implement the tasks as described in the Method sections: stimulus generation, trial structure, timing and response collection through a multi-channel audio interface. Session-specific settings (participant number, date, audio device, response keys) are placeholders at the top of each script and must be set before a session. Each script writes one text file per block or task; the files in `data/` were compiled from such files.
 
-## Licenses
-
-- Data (`data/`, `output/`): Creative Commons Attribution 4.0 International (`DATA_LICENSE.md`).
-
 ## Contact
 
 Kiichi Naka, University of Nagasaki (kiichinaka@sun.ac.jp).
