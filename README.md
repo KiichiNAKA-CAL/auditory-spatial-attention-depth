@@ -124,10 +124,6 @@ Conventions inside the scripts and output tables: the distance discrimination ta
 
 The participant-level cell values that enter the ANOVAs are in `tables/median_rt_by_*.csv`, `error_rate_by_*.csv` and `correct_ratio_by_pair.csv`. Figures 1, 2 and 7 are schematic drawings and are not produced by the scripts.
 
-## Experiment scripts
-
-`experiment_scripts/exp1/sustainedAttentionTask.m`, `exp1/localizationTask.m`, `exp2/spatialCueingTask.m` and `exp2/localizationTask.m` are MATLAB (R2023a) / Psychtoolbox-3 scripts that implement the tasks as described in the Method sections: stimulus generation, trial structure, timing and response collection through a multi-channel audio interface. Session-specific settings (participant number, date, audio device, response keys) are placeholders at the top of each script and must be set before a session. Each script writes one text file per block or task; the files in `data/` were compiled from such files.
-
 ## Contact
 
 Kiichi Naka, University of Nagasaki (kiichinaka@sun.ac.jp).
